@@ -1,0 +1,20 @@
+  <RCC>
+  <qresource prefix="svg">
+    <file>img/svg/篮球.png</file>
+    <file>img/svg/男孩1.png</file>
+    <file>img/svg/男孩2.png</file>
+    <file>img/svg/男孩3.png</file>
+    <file>img/svg/男孩4.png</file>
+    <file>img/svg/女孩1.png</file>
+    <file>img/svg/女孩z.png</file>
+    <file>img/svg/对比.png</file>
+    <file>img/svg/箭头_页面_向上.png</file>
+    <file>img/svg/闪电-实.png</file>
+    <file>img/svg/星星.png</file>
+    <file>img/svg/205设置.png</file>
+    <file>img/svg/博士帽.png</file>
+    <file>img/svg/联系人.png</file>
+    <file>img/svg/主页.png</file>
+    <file>img/svg/DIT.svg</file>
+  </qresource>
+</RCC>
